@@ -2,4 +2,4 @@ In this project animated race bar charts are created with multiple libraries in 
 
 
 
-<iframe src='//gifs.com/embed/XLKVVv' frameborder='0' scrolling='no' width='864px' height='504px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+![Alt Text](https://j.gifs.com/XLKVVv.gif)
